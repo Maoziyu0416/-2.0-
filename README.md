@@ -7,4 +7,4 @@
 This project is called "Exploding Emotional History". The code language is Python and the compilation environment is cpython3.6+
 The code is open source according to the Mozilla Public License 2.0 (MPL) open-source protocol, which is located in this directory
 The original author of the code reserves all rights to the code, and any violation or infringement of the open source agreement will be held legally responsible
-
+WARNING：ALL RIGHTS RESERVED！ALL CREDITS GO TO Maoziyu0416
